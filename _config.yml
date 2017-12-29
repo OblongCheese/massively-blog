@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:              Owen Stickley
+bio:                'A simple portfolio website for various personal projects'
+description:        "Jekyll template, MASSIVELY design, hosted on GitHub, managed by Netlify, secured by Let's Encrypt"
+locale:             en_AU
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://owened.net/" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -35,15 +35,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            thejimmydimple
 facebook:           default
-instagram:          default
+instagram:          thejimmydimple
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Brisbane, QLD
+# phone:              
+email:              owen@owened.net
 
 # Gems
 gems:
