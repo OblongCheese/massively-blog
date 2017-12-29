@@ -31,7 +31,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   owenednet
 
 # Social
 analytics-id:       "default"
@@ -42,7 +42,7 @@ github:             default
 
 # personal
 location:           Brisbane, QLD
-# phone:              
+# phone:
 email:              owen@owened.net
 
 # Gems
