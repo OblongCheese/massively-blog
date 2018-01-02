@@ -3,8 +3,8 @@ title:              Owen Stickley
 bio:                'A simple portfolio website for various personal projects'
 description:        "Jekyll template, MASSIVELY design, hosted on GitHub, managed by Netlify, secured by Let's Encrypt"
 locale:             en_AU
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://owened.net/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://owened.net/" # the base hostname & protocol for your site
 
 defaults:
 - scope:
