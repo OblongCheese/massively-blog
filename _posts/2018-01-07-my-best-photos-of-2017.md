@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to my new site"
-date:   2017-12-29
+title:  "My favourite photos from 2017"
+date:   2018-01-07
 excerpt: "My favourite photos from 2017"
 image: "/images/P1160354.jpg"
 ---
