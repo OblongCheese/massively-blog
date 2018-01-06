@@ -2,7 +2,7 @@
 layout: post
 title:  "My favourite photos from 2017"
 date:   2018-01-07
-excerpt: "My favourite photos from 2017"
+excerpt: "I like to photograph people and events as a matter of documentary"
 image: "/images/P1160354.jpg"
 ---
 
