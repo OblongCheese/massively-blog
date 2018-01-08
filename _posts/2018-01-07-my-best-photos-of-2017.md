@@ -17,4 +17,4 @@ There is a certain level of creativity required to take a decent photograph. Whi
 I tried to pick just one photo from each calendar month.
 
 
-<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"><a href="https://youtubevideoembed.com/embed-youtube-videos-wix/">Wix here</a></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/53053017@N02/albums/72157661861480007&sort=5&by=album&theme=grid_right&scale=fit&limit=12&skin=default-light&autoplay=true'></script><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small>
+<div id="flickrembed"></div><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/53053017@N02/albums/72157661861480007&sort=5&by=album&theme=grid_right&scale=fit&limit=12&skin=default-light&autoplay=true'></script><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small>
