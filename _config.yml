@@ -34,7 +34,8 @@ sass:
 disqus_shortname:   owenednet
 
 # Social
-analytics-id:       "GTM-PBRXMVG"
+analytics-tag-id:   "GTM-PBRXMVG"
+analytics-id:       "UA-4894928-1"
 twitter:            thejimmydimple
 facebook:           default
 instagram:          thejimmydimple
