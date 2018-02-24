@@ -34,7 +34,7 @@ This applies to most currently available smart appliances and is frankly a letdo
 
 How these systems work is illustrated in the following diagram, courtesy of Fujitsu.
 
-![Fujitsu WiFi air-conditioner control flow diagram](images/fujitsu-img-wi-fi-system-diagram.jpg)
+![Fujitsu WiFi air-conditioner control flow diagram](/images/fujitsu-img-wi-fi-system-diagram.jpg)
 
 As per the diagram labels;
 1. Your control device (phone or tablet) at home will connect to your home WiFi so that it can communicate with (5), the manufacturer home base. Consider the scenario that you accidentally smash your phone or lose it. How do you now control your smart home appliances?
