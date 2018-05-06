@@ -18,7 +18,9 @@ IP surveillance cameras use IP-based networking concepts to digitally transmit s
 
 ### Privacy of the Home User
 This screenshot from my DNS server shows that the noisiest two devices on my home network are my two Hikvision IP cameras. They are constantly making DNS requests for a specific hostname. This appears to be the cloud-based service that Hikvision offers to end users to ease the use of their products. I personally do not require the use of this cloud service. I do permit the cameras to make these DNS queries, but they are unable to establish any kind of connectivity to Internet destinations.
+
 ![Hikvision IP Camera DNS query log](/images/hikvision-dev-ezviz7-dns-requests.png)
+
 
 I do not want any photos or video of myself or my family to be accessed, processed or stored by systems unknown to me. So I do not permit that to occur.
 
