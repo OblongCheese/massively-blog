@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Privacy cosniderations of cheap smart home gadgets"
+title:  "Privacy considerations of cheap smart home gadgets"
 date:   2018-05-06
 excerpt: "Privacy is still important in 2018"
 image: "/images/magnifying-glass-1607208_1920.jpg"
